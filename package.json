@@ -1,0 +1,32 @@
+{
+  "name": "pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "next": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "babel-plugin-polished": "^1.1.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.0",
+    "next": "^2.4.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-fontawesome": "^1.6.1",
+    "react-icons": "^2.2.5",
+    "react-scroll": "^1.5.3",
+    "styled-components": "^2.1.0",
+    "validator": "^7.1.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.1.5"
+  }
+}
